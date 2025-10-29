@@ -8,6 +8,8 @@ This project showcases a dynamic slider built using only vanilla JavaScript, HTM
 - Parallax effect for images
 - Pure vanilla JavaScript – no external libraries
 - 
+  https://varsharathi295-coder.github.io/Dynamic-Image-Slider/
+
 
 
 
